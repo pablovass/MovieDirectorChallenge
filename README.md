@@ -27,12 +27,12 @@ Para una comprensión detallada del enunciado original del problema, por favor, 
 ## Tecnologías Utilizadas
 
 *   **Java 17**: La versión principal del lenguaje.
-*   **Spring Boot 3.4.12**: Framework para construir la aplicación.
+*   **Spring Boot 3.3.1**: Framework para construir la aplicación.
 *   **Spring WebFlux**: Para el modelo de programación reactiva.
 *   **Project Reactor**: Base para los flujos reactivos.
 *   **Lombok**: Reduce el código repetitivo (getters, setters, constructores).
 *   **MapStruct 1.5.5.Final**: Generador de código para el mapeo de objetos.
-*   **SpringDoc OpenAPI 2.2.0**: Integra Swagger UI para la documentación de la API.
+*   **SpringDoc OpenAPI 2.5.0**: Integra Swagger UI para la documentación de la API.
 *   **Gradle**: Herramienta de automatización de construcción.
 *   **JUnit 5 y Mockito**: Para pruebas.
 *   **Reactor Test**: Para probar flujos reactivos.
